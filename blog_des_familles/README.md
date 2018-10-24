@@ -1,24 +1,23 @@
-# README
+# BLOG DES FAMILLES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+L'objectif de ce projet était de réaliser une base de données à l'aide de Rails avec des modèles, des attributs et des interactions entre ces différents modèles.
 
-Things you may want to cover:
+## 🐣 Pour commencer
 
-* Ruby version
+Cloner ce repository.
 
-* System dependencies
+## 🔧 Pré-requis
 
-* Configuration
+Il sera nécessaire d'installer certains gems. Pour réaliser cette base de données, nous avons utilisé Ruby 2.5.3 (ou Ruby 2.5.1) ainsi que Rails 5.2.1. Veillez bien à avoir ces versions installées pour pouvoir utiliser cette base de données. Pour ce faire, rentrer dans le repository grâce à la commande :
+````
+cd blog_des_familles
+```
 
-* Database creation
+Puis taper dans le Terminal :
+```
+bundle install
+```
 
-* Database initialization
+## 👉🏼 Auteurs 👈🏼
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ce travail a été réalisé en pair-programming avec Virginie Valeur Hannebicque, Mustapha Ait Ouayhou, Thomas Perus et Anaïs Diologeant.
