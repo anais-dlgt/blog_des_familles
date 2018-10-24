@@ -9,7 +9,7 @@ Cloner ce repository.
 ## 🔧 Pré-requis
 
 Il sera nécessaire d'installer certains gems. Pour réaliser cette base de données, nous avons utilisé Ruby 2.5.3 (ou Ruby 2.5.1) ainsi que Rails 5.2.1. Veillez bien à avoir ces versions installées pour pouvoir utiliser cette base de données. Pour ce faire, rentrer dans le repository grâce à la commande :
-````
+```
 cd blog_des_familles
 ```
 
